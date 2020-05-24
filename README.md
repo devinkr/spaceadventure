@@ -1,2 +1,2 @@
 # spaceadventure
-Space game to learn pygame
+A space adventure game to learn pygame
